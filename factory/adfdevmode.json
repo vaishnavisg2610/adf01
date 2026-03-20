@@ -1,0 +1,9 @@
+{
+	"name": "adfdevmode",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d40c82a6-8fe2-4639-a3a7-4e6b3837da55",
+		"tenantId": "92dacc6c-ec9e-4457-bd18-c97f7e16c292"
+	}
+}
